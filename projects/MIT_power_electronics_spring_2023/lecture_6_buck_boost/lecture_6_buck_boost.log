@@ -1,0 +1,11 @@
+LTspice 24.0.12 for Windows
+Circuit: * C:\Users\Dell\Documents\LTspice\projects\MIT_power_electronics_spring_2023\lecture_6_buck_boost\lecture_6_buck_boost.asc
+Start Time: Tue Feb  4 21:11:58 2025
+solver = Normal
+Maximum thread count: 4
+tnom = 27
+temp = 27
+method = modified trap
+Direct Newton iteration for .op point succeeded.
+Total elapsed time: 0.985 seconds.
+

@@ -1,0 +1,71 @@
+LTspice 24.0.12 for Windows
+Circuit: * C:\Users\Dell\Documents\LTspice\projects\DC_sweep\DC_sweep.asc
+Start Time: Sat Jun 14 12:51:37 2025
+solver = Normal
+Maximum thread count: 4
+tnom = 27
+temp = 27
+method = modified trap
+Instance "m:u1:1": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u1:8": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u1:2": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u1:3": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u1:4": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u1:5": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u1:18": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u1:19": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u1:23": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u1:16": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u1:17": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u1:21": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u1:22": Length shorter than recommended for a level 1 MOSFET.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-05
+Gmin = 1.6455e-06
+vernier = 0.5
+vernier = 0.25
+vernier = 0.125
+vernier = 0.0625
+vernier = 0.03125
+Gmin = 6.73999e-07
+vernier = 0.015625
+vernier = 0.0208333
+Gmin = 6.47394e-07
+vernier = 0.0277778
+vernier = 0.037037
+Gmin = 6.03418e-07
+vernier = 0.0493827
+Gmin = 5.40299e-07
+vernier = 0.0658435
+vernier = 0.0877914
+Gmin = 4.49133e-07
+vernier = 0.117055
+vernier = 0.156073
+Gmin = 3.35051e-07
+vernier = 0.208098
+Gmin = 2.12062e-07
+vernier = 0.277464
+vernier = 0.369952
+Gmin = 9.95494e-08
+vernier = 0.493269
+vernier = 0.657691
+Gmin = 3.06175e-08
+vernier = 0.876922
+Gmin = 5.07005e-09
+vernier = 1
+Gmin = 5.44392e-10
+Gmin = 5.84537e-11
+Gmin = 6.27641e-12
+Gmin = 6.73925e-13
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+Total elapsed time: 0.582 seconds.
+

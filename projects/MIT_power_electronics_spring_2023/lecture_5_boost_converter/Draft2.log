@@ -1,0 +1,13 @@
+LTspice 24.0.12 for Windows
+Circuit: * C:\Users\Dell\Documents\LTspice\projects\MIT_power_electronics_spring_2023\lecture_5_boost_converter\Draft2.asc
+Start Time: Sat Jun 14 16:50:40 2025
+solver = Normal
+Maximum thread count: 4
+tnom = 27
+temp = 27
+method = modified trap
+WARNING: Node N002 is floating.
+
+Direct Newton iteration for .op point succeeded.
+Total elapsed time: 0.127 seconds.
+

@@ -1,0 +1,49 @@
+LTspice 24.0.12 for Windows
+Circuit: * C:\Users\rgraholskis2\Documents\LTspice\noise_simulations\noise_simulations.asc
+Start Time: Thu Aug  1 13:45:16 2024
+solver = Normal
+Maximum thread count: 16
+tnom = 27
+temp = 27
+method = modified trap
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+vernier = 0.5
+vernier = 0.25
+Gmin = 4.4017e-05
+vernier = 0.125
+vernier = 0.0625
+vernier = 0.03125
+vernier = 0.015625
+Gmin = 4.35058e-05
+vernier = 0.0078125
+vernier = 0.00390625
+vernier = 0.00195312
+vernier = 0.000976562
+Gmin = 4.34422e-05
+vernier = 0.000488281
+Gmin = 0
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+Source Step = 21.2121%
+Source Step = 28.7879%
+Source Step = 36.3636%
+Source Step = 43.9394%
+Source Step = 51.5152%
+vernier = 0.375
+Source Step = 60.2273%
+Source Step = 71.5909%
+Source Step = 82.9545%
+Source Step = 94.3182%
+Source stepping succeeded in finding the operating point.
+
+Total elapsed time: 0.093 seconds.
+

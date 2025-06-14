@@ -1,0 +1,4 @@
+LTspice 24.0.12 for Windows
+Circuit: * C:\Users\Dell\Documents\LTspice\projects\MIT_power_electronics_spring_2023\lecture_3_load_regulation\Draft2.asc
+Start Time: Sat Nov  2 12:10:36 2024
+Fatal Error: vout: Missing node(s).

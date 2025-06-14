@@ -1,0 +1,11 @@
+LTspice 24.0.12 for Windows
+Circuit: * C:\Users\rgraholskis2\Documents\LTspice\projects\MIT_power_electronics_spring_2023\lecture_5_buck_converter\Draft2.asc
+Start Time: Tue Aug 27 14:51:57 2024
+solver = Normal
+Maximum thread count: 16
+tnom = 27
+temp = 27
+method = modified trap
+Direct Newton iteration for .op point succeeded.
+Total elapsed time: 0.066 seconds.
+
